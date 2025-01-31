@@ -9,14 +9,12 @@
 <!--  <img src="https://img.shields.io/badge/Languages-Python | Java | PHP | Typescript | Node | React -green.svg" alt="guga-ggw's languages" /> -->
 <!--  <img alt="Profile followers" src="https://img.shields.io/github/followers/guga-ggw"> -->
 </p>
-
 <div align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
   <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass" width="50" height="50" />
 </div>
-
 <br>
 
 <div align="center">
