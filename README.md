@@ -86,13 +86,5 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-![Guga's GitHub stats](https://github-readme-stats.vercel.app/api?username=guga-ggw\&theme=midnight-purple\&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&hide=contribs,issues)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=guga-ggw&theme=midnight-purple)](https://git.io/streak-stats)
-
-</div>
 
 <br><br>
